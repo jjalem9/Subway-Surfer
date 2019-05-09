@@ -1,7 +1,7 @@
 //
 //  GameViewController.swift
 //  Subway Surfer
-//  James Jalem/Rak Singh/Samaran Kapa/Srujan
+//  James Jalem/Rak Singh/Samaran Kapa/Srujan Kalva
 //  Created by James Jalem 2019 on 5/7/19.
 //  Copyright © 2019 James Jalem 2019. All rights reserved.
 //
